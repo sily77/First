@@ -1,5 +1,5 @@
 # First
-game
+
 import random
 class game(object):
 	def fuwei(self):
