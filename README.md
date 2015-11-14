@@ -46,4 +46,3 @@ def main():
 	a.hud()
 	a.xuan()
 
-main()	
