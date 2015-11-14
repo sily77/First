@@ -38,7 +38,7 @@ class game(object):
 				if(choice == "y"):
 					self.hud()
 				if(choice == "n"):
-					print("you play %d and win %d" % (self.x,self.win))
+					print("you have played %d and wined %d" % (self.x,self.win))
 					return
 def main():
 	a = game()
